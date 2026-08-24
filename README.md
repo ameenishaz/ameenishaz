@@ -34,7 +34,7 @@ developer = ameenishaz()
 print(developer.get_motto())
 ```
 
-<img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/raw/main/profile.jpg.png" style="border-radius: 15px; margin: 20px;"/>
+<img align="right" width="300" height="300" src="https://github.com/ameenishaz/ameenishaz/raw/main/profile.jpg.png" style="border-radius: 15px; margin: 20px;"/>
 
 ---
 
