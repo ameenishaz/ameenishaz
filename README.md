@@ -34,7 +34,7 @@ developer = ameenishaz()
 print(developer.get_motto())
 ```
 
-<img align="right" width="300" height="300" src="https://github.com/ameenishaz/ameenishaz/raw/main/profile.jpg.png" style="border-radius: 15px; margin: 20px;"/>
+<img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/raw/main/profile.jpg" style="border-radius: 15px; margin: 20px;"/>
 
 ---
 
@@ -172,9 +172,9 @@ DevOps          -> CI/CD, Docker, GitHub Actions
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ameen-a-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameen-a-)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameen626266@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)(https://ameen-ambalakuth-portfolio.netlify.app/))](https://ameen-ambalakuth-portfolio.netlify.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://ameen-ambalakuth-portfolio.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ameenishaz)
 
 </div>
